@@ -6,8 +6,8 @@
 ## Мои скиллы
 
 ### Языки программирования
-[![Dart](https://img.shields.io/badge/Dart-★★★-blue)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-★★★-blue)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-★★★-blue?style=for-the-badge&logo=dart)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-★★★-blue?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 
 ### Базы данных
 [![MongoDB](https://img.shields.io/badge/MongoDB-★★☆-green)](https://www.mongodb.com/)
