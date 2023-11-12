@@ -10,17 +10,24 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="30" height="30"/>&nbsp;
+  
+  
+  
  
 </div>
 
 ### Базы данных
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
+https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg
 
 ### Инструменты
-[![Git](https://img.shields.io/badge/Git-★★★-red)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-★★☆-blueviolet)](https://code.visualstudio.com/)
-[![Insomnia](https://img.shields.io/badge/Insomnia-★★★-purple)](https://insomnia.rest/)
+https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg
+https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirill89450&theme=solarized_dark)
